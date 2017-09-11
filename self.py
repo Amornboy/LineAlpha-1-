@@ -92,7 +92,7 @@ wait = {
     'autoAdd':False,
     'message':"",
     "lang":"JP",
-    "comment":"花音family",
+    "comment":"戦神family",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
